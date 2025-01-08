@@ -1,4 +1,4 @@
 # 4G-LTE-AUTHENTICATION
-4G Lte Authentication Using Python
-
-We have implemented the authentication process of 4G Lte using python and sql
+4G LTE Authentication using Python
+##################################
+Implemention of 4G LTE authentication process using python and SQL
